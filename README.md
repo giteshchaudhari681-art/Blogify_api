@@ -1,4 +1,4 @@
-# Backend NEW
+# Blogify API
 
 A Node.js backend application built with Express.js.
 
@@ -29,8 +29,8 @@ Backend NEW
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Tejas-V-P/Blogify-api1.git
-cd Backend\ NEW
+git clone https://github.com/giteshchaudhari681-art/beathub-api.git
+cd Blogify-api
 ```
 
 2. Install dependencies
